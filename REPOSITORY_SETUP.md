@@ -8,6 +8,10 @@
 
 Public
 
+## License status
+
+Proprietary — All Rights Reserved. Public visibility is for portfolio evaluation and demonstration only; it does not grant permission to copy, use, modify, redistribute, commercialize, or create derivative works. See `LICENSE`.
+
 ## Description
 
 Public AI-cyber governance prototype translating risk evidence into human-owned escalation paths, safeguards, and auditable decision records.

@@ -1,5 +1,8 @@
 # From Signal to Safeguard
 
+> [!IMPORTANT]
+> **Proprietary source — public for portfolio review only.** Copying, reuse, modification, redistribution, commercialization, and derivative works are prohibited without prior written permission. See [LICENSE](LICENSE).
+
 **A public AI-cyber governance prototype for translating risk evidence into accountable human decisions.**
 
 [Launch the live prototype](https://from-signal-to-safeguard.imani-kirika116.chatgpt.site/) | [Read the project brief](docs/PROJECT_BRIEF.md) | [Review the methodology](docs/METHODOLOGY.md) | [See the roadmap](ROADMAP.md)
@@ -113,25 +116,9 @@ Completed:
 
 Planned work depends on funding, practitioner participation, and what the evidence supports. See the [roadmap](ROADMAP.md).
 
-## Run locally
+## Access and permitted use
 
-Prerequisites:
-
-- Node.js 22.13 or newer
-- npm
-
-```bash
-git clone https://github.com/Iamlegend-Imani/from-signal-to-safeguard.git
-cd from-signal-to-safeguard
-npm ci
-npm run dev
-```
-
-For a production build:
-
-```bash
-npm run build
-```
+The live prototype and repository materials may be viewed for portfolio evaluation, research review, and demonstration. The source is not open source. Copying, cloning, reuse, modification, redistribution, commercial use, and creation of derivative works require prior written permission. See the [proprietary notice](LICENSE).
 
 ## Repository structure
 
@@ -152,4 +139,4 @@ Systems builder working across AI, data, operations, customer experience, and cy
 
 ## License
 
-Released under the [MIT License](LICENSE). The methodology remains experimental and should not be treated as an assurance, certification, or operational authorization standard.
+**Proprietary — all rights reserved.** This repository is public for portfolio review and demonstration only. No permission is granted to copy, use, modify, redistribute, commercialize, or create derivative works from the source or accompanying materials, except for the limited rights required by GitHub's Terms of Service. See the [proprietary notice](LICENSE).
