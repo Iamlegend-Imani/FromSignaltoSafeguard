@@ -1,0 +1,1 @@
+Trigger diagnostic build after living-theme update.
